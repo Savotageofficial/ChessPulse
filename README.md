@@ -37,7 +37,6 @@ A Jetpack Compose Android app for chess study and improvement — built for play
 
 ## Contributing
 
-Pull requests welcome — see `JARVIS` branch for active work.  
 Open issues for bugs or feature notes; keep PRs scoped.
 
 ## License
